@@ -1,2 +1,2 @@
 # To-Do
-Adding basic features to advance features
+Adding basic features to advance features on TO-DO project
